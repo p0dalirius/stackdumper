@@ -12,10 +12,10 @@
 
 ## Features
 
-- [x] Find valid Google Suite emails from a list of probable emails.
-- [x] Export results in CSV with `--export-xlsx <file.xlsx>`.
+- [x] Exploit a format string vulnerability to dump the stack content.
+- [x] Export results in CSV with `--csv <file.csv>`.
 
-## Demo
+## Demonstration
 
 
 
@@ -30,3 +30,7 @@ options:
   -q, --quiet        Quiet output
   -c CSV, --csv CSV  Exports findings to CSV file.
 ```
+
+## Contributing
+
+Pull requests are welcome. Feel free to open an issue if you want to add other features.
